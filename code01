@@ -1,0 +1,3 @@
+#write a python code to print string and interger
+print('hello world ');
+print(1000);
